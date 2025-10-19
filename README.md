@@ -1,7 +1,3 @@
-Here’s a professional README.md template based on your background, CV, and specialties in software development and AI/data engineering:
-
-***
-
 # Pham Le Thanh Phat — Software Developer & AI/Data Engineer
 
 **Email:** phatthanh69.work@gmail.com  
