@@ -79,5 +79,3 @@ I am a highly motivated Data Science graduate and software developer, with hands
 - **GitHub:** [github.com/phatthanh69](https://github.com/phatthanh69)
 
 ***
-
-If you need a more concise, personalized boilerplate or want additional sections (e.g., publications, interests, or languages), just let me know!
