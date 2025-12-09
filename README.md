@@ -12,7 +12,10 @@ I am a highly motivated Data Science graduate and software developer, with hands
 
 ## 💻 Professional Experience
 
-- **Software Developer & Data Engineer, Reeco Tech Co., Ltd. (2024–Present)**
+- **Data Scientist, Timo Digital Bank by BV Bank (Present)**
+***
+
+- **Software Developer & Data Engineer, Reeco Tech Co., Ltd. (2024-2025)**
     - Engineered environmental data monitoring systems, asset management tools, and real-time process automation for clients in smart cities, hydrometeorology, and logistics.
     - Led the development of full-stack WebGIS for UNDP climate projects, integrating multi-source geospatial and sensor data via robust data pipelines.
     - Architected backend for vessel navigation and berthing processes, including JWT-based authentication and secure, real-time streaming.
@@ -54,6 +57,9 @@ I am a highly motivated Data Science graduate and software developer, with hands
 ***
 
 ## 🎓 Education
+
+- **M.Sc. in Information Technology (Focus on Data)**, University of Information Technology VNU-HCM (2025-2027)
+***
 
 - **B.Sc. in Data Science**, University of Information Technology VNU-HCM (2021–2025)
     - GPA: 8.05/10 (7 semesters)
