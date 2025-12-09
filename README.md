@@ -1,4 +1,4 @@
-# Pham Le Thanh Phat — Software Developer & AI/Data Engineer
+# Pham Le Thanh Phat — Data Scientist
 
 **Email:** phatthanh69.work@gmail.com  
 **LinkedIn:** [linkedin.com/in/phatthanh69](https://linkedin.com/in/phatthanh69)  
@@ -6,16 +6,16 @@
 **Location:** Ho Chi Minh City, Vietnam
 
 ## 🔥 About Me
-I am a highly motivated Data Science graduate and software developer, with hands-on experience in **AI/ML development**, **geospatial data processing**, and **data engineering**. My passion lies in designing scalable, production-grade systems that solve real-world business challenges using modern technology stacks. Currently, I’m actively researching deep learning solutions for medical imaging and brain age prediction.
+I am a highly motivated Data Science graduate, with hands-on experience in **AI/ML development**, **geospatial data processing**, and **data engineering**. My passion lies in designing scalable, production-grade systems that solve real-world business challenges using modern technology stacks.
 
 ***
 
 ## 💻 Professional Experience
 
-- **Data Scientist, Timo Digital Bank by BV Bank (Present)**
+- **Data Scientist, Timo Digital Bank by BV Bank (Nov 2025 - Present)**
 ***
 
-- **Software Developer & Data Engineer, Reeco Tech Co., Ltd. (2024-2025)**
+- **Software Developer & Data Engineer, Reeco Tech Co., Ltd. (Jul 2024 - Nov 2025)**
     - Engineered environmental data monitoring systems, asset management tools, and real-time process automation for clients in smart cities, hydrometeorology, and logistics.
     - Led the development of full-stack WebGIS for UNDP climate projects, integrating multi-source geospatial and sensor data via robust data pipelines.
     - Architected backend for vessel navigation and berthing processes, including JWT-based authentication and secure, real-time streaming.
@@ -58,7 +58,9 @@ I am a highly motivated Data Science graduate and software developer, with hands
 
 ## 🎓 Education
 
-- **M.Sc. in Information Technology (Focus on Data)**, University of Information Technology VNU-HCM (2025-2027)
+- **M.Sc. in Information Technology (Focus on Data Science)**, University of Information Technology VNU-HCM (2025-2027)
+    - GPA: /10
+    - Relevant coursework:
 ***
 
 - **B.Sc. in Data Science**, University of Information Technology VNU-HCM (2021–2025)
