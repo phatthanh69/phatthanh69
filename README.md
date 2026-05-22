@@ -1,89 +1,89 @@
-# Pham Le Thanh Phat — Data Scientist
+# Pham Le Thanh Phat
 
-**Email:** phatthanh69.work@gmail.com  
-**LinkedIn:** [linkedin.com/in/phatthanh69](https://linkedin.com/in/phatthanh69)  
-**GitHub:** [github.com/phatthanh69](https://github.com/phatthanh69)  
-**Location:** Ho Chi Minh City, Vietnam
+**Data Scientist & Software Engineer** — Ho Chi Minh City, Vietnam
 
-## 🔥 About Me
-I am a highly motivated Data Science graduate, with hands-on experience in **AI/ML development**, **geospatial data processing**, and **data engineering**. My passion lies in designing scalable, production-grade systems that solve real-world business challenges using modern technology stacks.
+[phatthanh69.work@gmail.com](mailto:phatthanh69.work@gmail.com) · +84 326 509 854 · [linkedin.com/in/phatthanh69](https://linkedin.com/in/phatthanh69) · [github.com/phatthanh69](https://github.com/phatthanh69)
 
-***
+---
 
-## 💻 Professional Experience
+## About
 
-- **Data Scientist, Timo Digital Bank by BV Bank (Nov 2025 - Present)**
-***
+Data Scientist and Software Engineer with 2 years of experience shipping production work across AI/ML, data platforms, geospatial systems, and real-time backend services — breadth shaped by picking up new stacks on the job rather than waiting for prior exposure. Strong in Python, JavaScript/TypeScript, SQL, vector search, remote sensing, and cloud-native deployment. Currently focused on decision engines, product analytics, customer segmentation, and medical imaging research.
 
-- **Software Developer & Data Engineer, Reeco Tech Co., Ltd. (Jul 2024 - Nov 2025)**
-    - Engineered environmental data monitoring systems, asset management tools, and real-time process automation for clients in smart cities, hydrometeorology, and logistics.
-    - Led the development of full-stack WebGIS for UNDP climate projects, integrating multi-source geospatial and sensor data via robust data pipelines.
-    - Architected backend for vessel navigation and berthing processes, including JWT-based authentication and secure, real-time streaming.
-    - Delivered ML pipelines for predictive analytics, anomaly detection, and data quality monitoring on hydro-meteorological datasets.
-    - Built and managed internal business platforms—ERP integrations, RAG chatbot, microservices, secure REST APIs, and scalable databases.
-    - Automated data acquisition with ETL pipelines for web, sensor, and station sources. Managed complex data infrastructure (SQL, NoSQL, streaming).
-    - Collaborated cross-functionally with experts, UI/UX, ERP, and government teams for high-impact solutions.
+---
 
-***
+## Experience
 
-## 🛠️ Tech Stack & Skills
+### Data Scientist — Timo Digital Bank by BVBank (Kredivo Group)
+*Nov 2025 – Present*
 
-- **Programming:** Python, JavaScript/TypeScript, Java
-- **Data Engineering:** PostgreSQL, MySQL, MongoDB, Redis, Kafka, MQTT, ETL pipelines, Docker, Nginx, CICD
-- **Machine Learning:** scikit-learn, TensorFlow, PyTorch, LangChain, Transfer learning, Model selection, Data preprocessing
-- **Web Development:** React.js, NestJS, Express.js, Spring, FastAPI, Flask, Microservices, REST APIs
-- **GIS/Geospatial:** Google Earth Engine, GeoServer, ArcGIS, QGIS, PostGIS, Satellite imagery analysis
-- **DevOps:** Docker Compose, Nginx, Git, CI/CD pipelines, Grafana, ELK Stack, SSH, VPN, API security
-- **Other:** FFmpeg, MediaMTX, HLS/WebRTC streaming, PowerBI, Tableau, Agile Scrum, Jira
+- Designed and shipped a segment-aware ML decision engine for Term Deposit Partial Withdrawal, replacing a flat-floor rule with a multi-feature model — lifting total TD funding by ~20% while keeping credit risk within bounds.
+- Built Kedro-based ML pipelines on AWS Athena/S3, including a transaction classifier that labels salary, loan, rent, and recurring streams across millions of records via Vietnamese NLP and pattern-based scoring — powering income verification and downstream segmentation.
+- Built behavioral user models across 10+ personas, powering personalization, churn-risk targeting, and onboarding drop-off analysis for Growth and Product teams.
+- Designed a 6-cohort funding-intent segmentation with P(fund in D7) logistic scoring and an A/B experiment framework — driving Money Pot activation tests and warm-leads journey targeting.
+- Drove Timo's referral program end-to-end: designed personalized notification and banner strategies by user segment, defined targeting logic with Growth and Business, and owned measurement from metric framework to the live tracking dashboard.
+- Built shared data tables and metric definitions adopted across Timo and Kredivo, standardizing inputs for downstream dashboards and product reviews.
 
-***
+### Software Engineer — Reeco Tech Co., Ltd.
+*Jul 2024 – Nov 2025*
 
-## 🧑‍🔬 Key Projects & Research
+- Delivered a full-stack WebGIS platform for the UNDP VNCSCC climate program, integrating Google Earth Engine, GeoServer, and dozens of in-field sensors to give government officials a real-time coastal monitoring view.
+- Designed the real-time backend for a vessel navigation and Berthing Aid system, delivering sub-second data to support concurrent multi-vessel berthing and reduce collision risk at port.
+- Built an internal RAG chatbot over hundreds of SOPs and product docs using LangChain and vector search, adopted company-wide for day-to-day knowledge lookup.
+- Built a multi-channel alerting service (Zalo, email, SMS, FCM) delivering real-time event notifications to thousands of users across their preferred channels.
+- Architected ERP-integration and inventory services keeping ops and finance master data in sync across the product portfolio, with shared databases, message buses, containerized infrastructure, and CI/CD pipelines automating build, test, and deploy.
 
-- **Brain Age Prediction Framework:**  
-  Deep learning models for neuroimaging-based age estimation (OASIS-2 dataset, 3D CNN, TensorFlow, MAE 4.2 years)  
-  [Source](https://github.com/phatthanh69/BrainAgeCL3D)
+---
 
-- **RAG Vector Search System Architecture:**  
-  Comprehensive RAG chatbot using LangChain, Sentence-BERT, vector storage, and custom ML pipelines for semantic search and response generation  
-  [Source](https://github.com/phatthanh69/RAG-Chatbot)
+## AI-First Mindset
 
-- **Portfolio (Data Science):**
-    - Stock market forecasting (LSTM, ARIMA)
-    - Vietnamese NLP sentiment analysis (PhoBERT)
-    - Object detection (YOLO)
-    - Automated web scraping tools for e-commerce & market research
+- Treats AI pair-programming (Claude, GitHub Copilot, Cursor) as a default rather than an occasional shortcut — scaffolding Python and SQL, iterating on model logic, reviewing diffs, and debugging production issues faster than manual iteration alone.
+- Compresses the insight loop by using AI to generate and stress-test analytical hypotheses, interpret model outputs, and convert raw query results into stakeholder-ready narratives.
+- Applies AI-assisted writing across all knowledge work — Confluence docs, Jira specs, dashboard commentary, and cross-team communication.
+- Picks up unfamiliar stacks on the job by pairing with Claude/Copilot — shipping production work in new frameworks (Kedro, NestJS, GeoServer, PyTorch) at a compressed ramp instead of waiting on traditional learning curves.
 
-***
+---
 
-## 🎓 Education
+## Tech Stack
 
-- **M.Sc. in Information Technology (Focus on Data Science)**, University of Information Technology VNU-HCM (2025-2027)
-    - GPA: /10
-    - Relevant coursework:
-***
+**Programming** — Python, SQL, JavaScript/TypeScript, Java, R; NumPy, Pandas, Spark, scikit-learn, XGBoost, TensorFlow, PyTorch
 
-- **B.Sc. in Data Science**, University of Information Technology VNU-HCM (2021–2025)
-    - GPA: 8.05/10 (7 semesters)
-    - Relevant coursework: ML, DL, Data Mining, Statistics, Algorithms, Database Systems
+**Backend & Web** — FastAPI, Flask, Node.js, NestJS, React.js, REST APIs, microservices
 
-***
+**AI/ML & Analytics** — ML/DL, NLP, RAG, LangChain, Kedro, vector search, computer vision, medical imaging, A/B testing, statistical analysis, AWS SageMaker, Holistics, Tableau
 
-## 📄 Certifications
+**Data & GIS** — PostgreSQL, MySQL, MongoDB, Redis, Kafka, MQTT, PGVector, AWS Athena, S3; QGIS, PostGIS, GDAL/OGR, Google Earth Engine, GeoServer
 
-- TOEIC 780
-- VNU-EPT B1.4
-- Google AI Essentials
-- Critical Thinking (Coursera)
-- WebGIS, Remote Sensing (OpenGIS)
-- SEO Foundation, Business Analytics (Coursera)
+**DevOps & Workflow** — Docker, Nginx, Cloudflare Workers, AWS, GitHub/GitLab, CI/CD, Grafana, ELK Stack, Jira, Confluence
 
-***
+---
 
-## 📫 Contact & Links
+## Selected Projects
 
-- **Email:** phatthanh69.work@gmail.com
-- **LinkedIn:** [linkedin.com/in/phatthanh69](https://linkedin.com/in/phatthanh69)
-- **GitHub:** [github.com/phatthanh69](https://github.com/phatthanh69)
+**[Brain Age Prediction Framework](https://github.com/phatthanh69/BrainAgeCL3D)**  
+3D CNN framework for brain age estimation on OASIS-2 using TensorFlow/Keras and NIfTI preprocessing; achieved 4.2-year MAE after augmentation, regularization, and tuning.
 
-***
+**[RAG Vector Search System](https://github.com/phatthanh69/RAG-Chatbot)**  
+LangChain RAG pipeline with Sentence-BERT embeddings, BM25 ranking, PGVector storage, document chunk optimization, and OpenAI/Google model integrations.
+
+**[Data Science Portfolio](https://github.com/phatthanh69)**  
+Applied projects in Vietnamese stock forecasting with LSTM/ARIMA, PhoBERT sentiment analysis, YOLO computer vision, and automated market data scraping.
+
+---
+
+## Education
+
+**University of Information Technology (VNU-HCM)** — Ho Chi Minh City
+
+- M.Sc. in Information Technology, expected Dec 2027
+- B.Sc. in Data Science, Mar 2025 — GPA 8.05/10
+
+Coursework: anomaly detection, advanced databases, big data analysis, computer vision, machine learning, deep learning, data mining, statistical analysis, database systems, algorithms, and data structures.
+
+---
+
+## Certifications
+
+- **Language:** TOEIC 780 (2023), VNU-EPT B1.4
+- **Technical:** Google AI Essentials, Critical Thinking, SEO Foundation, Business Analytics Foundation
+- **GIS:** WebGIS, Remote Sensing, ArcGIS & QGIS (OpenGIS)
