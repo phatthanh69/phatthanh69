@@ -25,7 +25,7 @@ Data Scientist and Software Engineer with 2 years of experience shipping product
 - Built shared data tables and metric definitions adopted across Timo and Kredivo, standardizing inputs for downstream dashboards and product reviews.
 
 ### Software Engineer — Reeco Tech Co., Ltd.
-*Jul 2024 – Nov 2025*
+*Jul 2024 – Present · Part-time from Nov 2025*
 
 - Delivered a full-stack WebGIS platform for the UNDP VNCSCC climate program, integrating Google Earth Engine, GeoServer, and dozens of in-field sensors to give government officials a real-time coastal monitoring view.
 - Designed the real-time backend for a vessel navigation and Berthing Aid system, delivering sub-second data to support concurrent multi-vessel berthing and reduce collision risk at port.
